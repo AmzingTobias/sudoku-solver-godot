@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/splash_screen.png-b91bc275733718788a55feb4883f200a.image"
+
+[deps]
+
+source_file="res://assets/images/splash_screen.png"
+dest_files=[ "res://.import/splash_screen.png-b91bc275733718788a55feb4883f200a.image" ]
+
+[params]
+

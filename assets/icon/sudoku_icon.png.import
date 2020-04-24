@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/sudoku_icon.png-9e1b010e2255ef0bdc638c2a34710c78.image"
+
+[deps]
+
+source_file="res://assets/icon/sudoku_icon.png"
+dest_files=[ "res://.import/sudoku_icon.png-9e1b010e2255ef0bdc638c2a34710c78.image" ]
+
+[params]
+
